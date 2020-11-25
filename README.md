@@ -62,6 +62,7 @@ user_id,article_1,article_2,article_3,article_4,article_5
 $$
 MRR = score(user) = \sum^5_{k=1} \frac{s(user,k)}{k}
 $$
+
 s(user,k)=1当且仅当预测的5个值中含有最后一个购买记录.
 
 
@@ -86,7 +87,8 @@ _学习链接:_
 
 [推荐系统-协同过滤原理与实现](https://www.cnblogs.com/NeilZhang/p/9900537.html)
 
-### Task02:
+### Task02: 数据分析
+
 
 ## 代码结构
 
